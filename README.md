@@ -1,2 +1,1 @@
-# readme2
-prediction project
+Hill and Valley Prediction using Logistic Regrission
